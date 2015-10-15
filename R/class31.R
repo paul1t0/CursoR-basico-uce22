@@ -16,3 +16,5 @@ library(ggplot2)
 require(devtools)
  hola
 chao
+
+plot(y,x)
